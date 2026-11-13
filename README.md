@@ -51,20 +51,20 @@ I care about clear layouts, maintainable code, accessibility, and the little det
 
 
 ### 05 / GitHub activity
-
 <h3 align="center">GITHUB ACTIVITY</h3>
 
 <p align="center">
-  <sub>Consistency in code. Progress in every commit.</sub>
+  <sub>Building consistently. Improving every day.</sub>
 </p>
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=UdgamAdhikari&theme=dark&hide_border=true&background=171C19&stroke=414A40&ring=A7BC8D&fire=D8AF78&currStreakNum=F4EEDC&sideNums=F4EEDC&currStreakLabel=A7BC8D&sideLabels=9FA99E&dates=879487"
-    alt="Udgam Adhikari GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=UdgamAdhikari&hide_border=true&background=F2F0EB&stroke=D8D6D0&ring=879A70&fire=B8845B&currStreakNum=292D28&sideNums=292D28&currStreakLabel=667C56&sideLabels=626A61&dates=8B8F86"
+    alt="Udgam Adhikari's GitHub contribution streak"
     width="540"
   />
 </div>
+
 ---
 
 <div align="center">
