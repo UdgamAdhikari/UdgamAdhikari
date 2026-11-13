@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Udgam Adhikari — Frontend Developer</title><desc id="desc">Warm ivory editorial profile banner with terracotta accents and modular technical shapes</desc>
+<rect width="1200" height="340" fill="#F3F0E9"/>
+<g stroke="#DEDAD1" stroke-width="1"><path d="M44 44H1156M44 296H1156"/><path d="M44 44V296M1156 44V296"/><path d="M785 44V296"/></g>
+<text x="65" y="72" font-size="13" letter-spacing="3" fill="#78746C" font-family="Arial,Helvetica,sans-serif">UDGAM / DEVELOPER PROFILE</text>
+<text x="1140" y="72" text-anchor="end" font-size="13" letter-spacing="2" fill="#78746C" font-family="Arial,Helvetica,sans-serif">KATHMANDU · NP</text>
+<text x="65" y="168" font-size="67" font-weight="700" letter-spacing="-3" fill="#22231F" font-family="Arial,Helvetica,sans-serif">Udgam Adhikari.</text>
+<text x="68" y="213" font-size="30" font-weight="500" fill="#CD583E" font-family="Arial,Helvetica,sans-serif">Frontend Developer</text>
+<text x="68" y="252" font-size="20" fill="#57564F" font-family="Arial,Helvetica,sans-serif">Interfaces, built from parts that fit.</text>
+<text x="67" y="281" font-size="12" letter-spacing="2" fill="#89847D" font-family="Arial,Helvetica,sans-serif">REACT  /  TYPESCRIPT  /  NEXT.JS</text>
+<g transform="translate(819 116)">
+  <path d="M0 139L158 76L294 135" stroke="#CCC8BF" stroke-width="1.5" fill="none"/>
+  <path d="M10 95L132 43L247 100L125 153Z" fill="#D2CEC4" stroke="#ABA79E" stroke-width="1.5"/>
+  <path d="M10 95L125 153L125 166L10 108Z" fill="#BEBBB2"/>
+  <path d="M125 153L247 100L247 113L125 166Z" fill="#A8A9A0"/>
+  <path d="M44 55L164 8L280 66L157 115Z" fill="#242823" stroke="#4A4D47" stroke-width="1.5"/>
+  <path d="M44 55L157 115L157 130L44 70Z" fill="#363A35"/>
+  <path d="M157 115L280 66L280 81L157 130Z" fill="#1A201B"/>
+  <circle cx="163" cy="65" r="21" fill="#D45A40"/>
+  <path d="M157 64l5 5 9-11" fill="none" stroke="#FAF1E7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="8" cy="139" r="4" fill="#D45A40"/><circle cx="294" cy="135" r="4" fill="#D45A40"/>
+</g>
+</svg>
