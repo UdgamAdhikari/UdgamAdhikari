@@ -48,20 +48,23 @@ I care about clear layouts, maintainable code, accessibility, and the little det
 **Also in my workflow:** shadcn/ui · Zustand · npm · API testing
 
 
-### 04 / How I build
 
-`01 UNDERSTAND` → `02 BREAK DOWN` → `03 BUILD` → `04 REFINE` → `05 SHIP`
-
-A clear brief, reusable components, working integrations, cross-device testing, and a release that can keep improving.
-
----
 
 ### 05 / GitHub activity
 
-<div align="center">
-  <img alt="Udgam's GitHub activity streak" src="https://streak-stats.demolab.com?user=UdgamAdhikari&theme=transparent&hide_border=true&ring=879A70&fire=879A70&currStreakLabel=879A70" />
-</div>
+<h3 align="center">GITHUB ACTIVITY</h3>
 
+<p align="center">
+  <sub>Consistency in code. Progress in every commit.</sub>
+</p>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=UdgamAdhikari&theme=dark&hide_border=true&background=171C19&stroke=414A40&ring=A7BC8D&fire=D8AF78&currStreakNum=F4EEDC&sideNums=F4EEDC&currStreakLabel=A7BC8D&sideLabels=9FA99E&dates=879487"
+    alt="Udgam Adhikari GitHub contribution streak"
+    width="540"
+  />
+</div>
 ---
 
 <div align="center">
