@@ -47,20 +47,6 @@ I care about clear layouts, maintainable code, accessibility, and the little det
 
 **Also in my workflow:** shadcn/ui · Zustand · npm · API testing
 
----
-
-### 03 / Selected work
-
-| Project | The work | Explore |
-| :--- | :--- | :--- |
-| **Garud Security** | Security operations platform; testing, API validation, and performance work. | [Case study](https://www.udgamadhikari.com.np/#work) |
-| **Heart Disease Prediction / CardioCare** | Team-built React application using clinical inputs and a machine-learning model. | [Case study](https://www.udgamadhikari.com.np/#work) |
-| **FieldDesk** | Multi-organisation support-ticket dashboard with role-based views. | [Live project](https://ticket-management-system-lake.vercel.app/) · [Code](https://github.com/UdgamAdhikari/Ticket-Management-System) |
-| **Ecommerce Store** | Next.js storefront with filtering, a cart, and theme switching. | [Code](https://github.com/UdgamAdhikari/Ecommerce) |
-
-<sub>Browse the full project explanations and case studies on my <a href="https://www.udgamadhikari.com.np/">portfolio</a>.</sub>
-
----
 
 ### 04 / How I build
 
