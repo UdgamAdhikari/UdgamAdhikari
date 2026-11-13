@@ -50,7 +50,7 @@ I care about clear layouts, maintainable code, accessibility, and the little det
 
 
 
-### 05 / GitHub activity
+### 03 / GitHub activity
 <h3 align="center">GITHUB ACTIVITY</h3>
 
 <p align="center">
