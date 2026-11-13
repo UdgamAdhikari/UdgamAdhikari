@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Udgam Adhikari — Frontend Developer. Interfaces, built from parts that fit." />
+  <img src="./banner.svg" width="100%" alt="Udgam Adhikari — Frontend Developer. Interfaces, built from parts that fit." />
 </p><p align="center">
   <a href="https://www.udgamadhikari.com.np/"><img src="https://img.shields.io/badge/PORTFOLIO-242824?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:udgamadhikari26@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CD583E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
