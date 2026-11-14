@@ -1,78 +1,35 @@
 <div align="center">
+  <img src="./banner.svg" width="100%" alt="Udgam Adhikari — Frontend Developer based in Kathmandu, Nepal. React, Next.js and TypeScript. Interfaces, built from parts that fit. A composition of interconnected UI components." />  <p><strong>Thoughtful interfaces. Reusable systems. Details that make things feel effortless.</strong></p>
+  <p>I build responsive web experiences, reusable components, and the API integrations behind them.</p>  <p>
+    <a href="https://www.udgamadhikari.com.np/">Portfolio</a> &nbsp;·&nbsp;
+    <a href="https://github.com/UdgamAdhikari">GitHub</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/udgam-adhikari-6412b8321/">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="mailto:udgamadhikari26@gmail.com">Email</a>
+  </p>
+</div>01 / About
+I'm Udgam, a frontend developer based in Kathmandu, Nepal, working professionally since July 2024. I build web interfaces and the components and API integrations behind them.
 
-<img src="./banner.svg" alt="Udgam Adhikari — Frontend Developer in Kathmandu, Nepal" width="100%" />
+I care about clear layouts, maintainable code, accessibility, and the small details that make an interface feel effortless. I enjoy working across the stack when a project needs it, but frontend engineering is where I spend most of my time.
 
-<br />
+My focus includes responsive React, Next.js and TypeScript interfaces; connections to REST APIs, backend services and databases; performance and usability across devices; and exploring thoughtful motion and interactive 3D on the web.
+02 / Toolkit
+Frontend & UI Engineering
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS" height="42" />
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&amp;theme=dark" alt="Node.js, Express, PostgreSQL and MongoDB" height="42" />
+Development Tools & Deployment
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,linux&amp;theme=dark" alt="Git, GitHub, Docker, Postman, Vercel and Linux" height="42" />
+Additional Workflow Tools
 
-**Frontend Developer · React & Next.js · UI Engineering**
-
-I build responsive interfaces, reusable components, and the connections that make them work.
-
-<br />
-
-<a href="https://www.udgamadhikari.com.np/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-EFDFBD?style=for-the-badge&logo=googlechrome&logoColor=243329" /></a>
-<a href="mailto:udgamadhikari26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-53694E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/udgam-adhikari-6412b8321/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-243329?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-</div>
-
----
-
-### 01 / About me
-
-I'm **Udgam**, a frontend developer based in **Kathmandu, Nepal**. I've been working professionally since **July 2024**, building web interfaces and the components and API integrations behind them.
-
-I care about clear layouts, maintainable code, accessibility, and the little details that make an interface feel effortless. I enjoy working across the stack when a project needs it, but frontend engineering is where I spend most of my time.
-
-- Building with **React, Next.js, TypeScript**, and modern CSS.
-- Connecting interfaces to **REST APIs**, backend services, and databases.
-- Improving **responsiveness, performance, and usability** across devices.
-- Exploring thoughtful **motion and interactive 3D** for the web.
-
----
-
-### 02 / The toolkit
-
-**Frontend & interface development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
-
-**Backend & databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" alt="Node.js, Express, PostgreSQL, MongoDB" />
-
-**Tools & deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,linux&theme=dark" alt="Git, GitHub, Docker, Postman, Vercel, Linux" />
-
-**Also in my workflow:** shadcn/ui · Zustand · npm · API testing
-
-
-
-
-### 03 / GitHub activity
-<h3 align="center">GITHUB ACTIVITY</h3>
-
-<p align="center">
-  <sub>Building consistently. Improving every day.</sub>
-</p>
-
+shadcn/ui  ·  Zustand  ·  npm  ·  API testing
+03 / GitHub activity
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=UdgamAdhikari&hide_border=true&background=F2F0EB&stroke=D8D6D0&ring=879A70&fire=B8845B&currStreakNum=292D28&sideNums=292D28&currStreakLabel=667C56&sideLabels=626A61&dates=8B8F86"
-    alt="Udgam Adhikari's GitHub contribution streak"
-    width="540"
-  />
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=UdgamAdhikari&amp;hide_border=true&amp;background=F6F4F0&amp;stroke=D8D4CF&amp;ring=D97736&amp;fire=E78949&amp;currStreakNum=19202A&amp;sideNums=19202A&amp;currStreakLabel=9C542C&amp;sideLabels=626B74&amp;dates=626B74" />
+    <img src="https://streak-stats.demolab.com?user=UdgamAdhikari&amp;hide_border=true&amp;background=10151D&amp;stroke=3C4756&amp;ring=F2A66B&amp;fire=E78949&amp;currStreakNum=F7F3EB&amp;sideNums=F7F3EB&amp;currStreakLabel=FFB577&amp;sideLabels=A7B3C0&amp;dates=83909E" alt="Live GitHub contribution streak statistics for UdgamAdhikari, provided by an external statistics service" width="520" />
+  </picture>
+  <p><sub>Live activity card. Numbers come from GitHub data via an external service and may be temporarily unavailable.</sub></p>
+</div>04 / Let's connect
+Have an interface to build or improve? Explore my work, send an email or browse my repositories.
 
----
-
-<div align="center">
-
-**Have an interface to build or improve?**
-
-[Explore my work](https://www.udgamadhikari.com.np/) · [Send me an email](mailto:udgamadhikari26@gmail.com) · [See my repositories](https://github.com/UdgamAdhikari?tab=repositories)
-
-<sub>Kathmandu, Nepal · Built with curiosity and attention to detail.</sub>
-
-</div>
+<sub>Based in Kathmandu, Nepal · Built with curiosity and attention to detail.</sub>
