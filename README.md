@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./siuuuu.svg" width="100%" alt="Udgam Adhikari — Frontend Developer based in Kathmandu, Nepal. React, Next.js and TypeScript. Interfaces, built from parts that fit. A composition of interconnected UI components." />  <p><strong>Thoughtful interfaces. Reusable systems. Details that make things feel effortless.</strong></p>
+  <img src="./siuuuu.png" width="100%" alt="Udgam Adhikari — Frontend Developer based in Kathmandu, Nepal. React, Next.js and TypeScript. Interfaces, built from parts that fit. A composition of interconnected UI components." />  <p><strong>Thoughtful interfaces. Reusable systems. Details that make things feel effortless.</strong></p>
   <p>I build responsive web experiences, reusable components, and the API integrations behind them.</p>  <p>
     <a href="https://www.udgamadhikari.com.np/">Portfolio</a> &nbsp;·&nbsp;
     <a href="https://github.com/UdgamAdhikari">GitHub</a> &nbsp;·&nbsp;
