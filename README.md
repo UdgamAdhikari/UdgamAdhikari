@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="./siuuu.png"
+    src="./siuuuu.png"
     alt="Udgam Adhikari — Frontend Developer in Kathmandu, Nepal. Animated composition of connected interface components, with React, Next.js and TypeScript."
     width="100%"
   />
